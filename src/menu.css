@@ -1,0 +1,14 @@
+ .list-container{
+    background-color: Blue;
+    display: inline-block;
+    border: 2px solid black;
+    color: black;
+ }
+ .menu-item{
+    background-color: LightGray;
+      display: block;
+      border: 2px solid black;
+      border-style: solid none;
+      margin: 10px 0px 10px 0px;
+      padding: 0px 10px 0px 10px;
+ }
