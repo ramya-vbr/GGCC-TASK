@@ -6,9 +6,9 @@
  }
  .menu-item{
     background-color: LightGray;
-      display: block;
-      border: 2px solid black;
-      border-style: solid none;
-      margin: 10px 0px 10px 0px;
-      padding: 0px 10px 0px 10px;
+    display: block;
+    border: 2px solid black;
+    border-style: solid none;
+    margin: 10px 0px 10px 0px;
+    padding: 0px 10px 0px 10px;
  }
